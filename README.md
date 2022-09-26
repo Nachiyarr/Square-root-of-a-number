@@ -31,7 +31,8 @@ fun()
 ```
 
 ## Output:
-![gcd of two number](gcd.png)
+![square](https://user-images.githubusercontent.com/113497340/192198278-304b38c7-47c6-462e-81f6-9973b6492d1f.png)
+
 
 
 ## Result:
